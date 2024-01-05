@@ -2,6 +2,8 @@
 this is a rat (trojan), i dunno why ppl downloaded this in the first place its so blatently a trojan but if u wanna try and remove it be my guest, ive removed paywalls for clients like konas im not gon be wasting my time for a old version of a client that's new version is really good.
 
 I did not make or crack this client full credit to rhack devs and @PlutoSolutions.
+<br>
+<br>
 **stage 1: faq**  
 
 Q: Why?  
